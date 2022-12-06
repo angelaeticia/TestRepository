@@ -1,1 +1,1 @@
-cecci est un fichier readbe
+cecci est un fichier readme
